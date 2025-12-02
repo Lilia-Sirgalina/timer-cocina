@@ -1,7 +1,7 @@
 # Kitchen Timer App
 
 ##  Demo  
-🔗 [View the app on Glitch](https://timer-para-cocinar.glitch.me)
+🔗 [View the app on Netlify](https://timer-para-cocinar.netlify.app)
 
 ## Project Description
 

@@ -64,10 +64,11 @@ function stopTimer() {
 }
 
 reload.addEventListener('click', function() {
+    document.querySelector('#player').pause();    
     location.reload();
 })
 
 
-  
+    
 
 
